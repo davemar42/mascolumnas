@@ -1,0 +1,16 @@
+nav{
+    background: #77ACF1;
+    padding: 20px;
+}
+.columnas{
+    background: salmon;
+    color:aliceblue;
+    padding: 20px;
+    margin: 10px;
+
+
+}
+.principal{
+    display: flex;
+
+}
